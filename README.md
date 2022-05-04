@@ -37,8 +37,8 @@ Este repositório foi criado para colocar o projeto realizado na #NLWReturn, eve
 
 ## 🚧 Projeto
 
-<h2 align="center">🚀 Stage 1/5 ✔️</h2>
-<h3 align="center">🚀 Stage 2/5 ⌛</h3>
+<h3 align="center">🚀 Stage 1/5 ✔️</h3>
+<h3 align="center">🚀 Stage 2/5 ✔️</h3>
 <h3 align="center">🚀 Stage 3/5 ⌛</h3>
 <h3 align="center">🚀 Stage 4/5 ⌛</h3>
 <h3 align="center">🚀 Stage 5/5 ⌛</h3>
