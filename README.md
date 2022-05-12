@@ -45,6 +45,16 @@ Este repositório foi criado para colocar o projeto realizado na #NLWReturn, eve
 
 ---
 
+## 🖊️ Melhorias
+
+<h4 align="center">🚀 Tema Light/Dark usando Tailwind ⌛</h4>
+<h4 align="center">🚀 Usar serviço de e-mail em proução ⌛</h4>
+<h4 align="center">🚀 Melhor HTML/CSS do e-mail ⌛</h4>
+<h4 align="center">🚀 Dashboard de feedbacks com autenticação ⌛</h4>
+<h4 align="center">🚀 Validação de campos/erros ⌛</h4>
+<h4 align="center">🚀 Documentar com comentários as funções ⌛</h4>
+
+---
 ## ✒️ Autor
 
 <table>
